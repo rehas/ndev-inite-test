@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ndev-inite-test"
+  site-url: "https://rehas.github.io/ndev-inite-test"
+  description: "First Notebook Development"
+  repo-branch: main
+  repo-url: "https://github.com/rehas/ndev-inite-test"
